@@ -1,0 +1,94 @@
+HEURISTICS AS TOOLS
+
+Engineering: Laws, formulae
+SA: Experience based knowledge
+
+Heuristics as abstractions of experience
+    - Pass on experience and knowledge to others
+
+    - Selected heuristics
+        - Do not assume that the original statement of the problem is necessarily the best or even the right one
+
+Trading Complexity
+
+    System
+        - Large number of simple sub systems
+            - large number of interfaces
+            - keep complexity at system level
+
+        - Small number of complex sub systems
+            - give complexity to sub systems
+
+    - In partitioning, choose the elements so that they are as independent as possible
+    - Choose elements with low external complexity and high internal complexity
+    - ex. Integrated circuits (ICs)
+
+    - A model is not reality
+    - If it can fail it will
+
+    - The eye is a fine architect. Believe it
+    - Simplify stuff
+    - Build and maintain options as long as possible in design and implementation of complex systems.
+
+
+CRITERIA FOR SELECTING HEURISTICS
+
+    1. The heuristic must make sense in the original domain
+    2. The general sense should apply beyond original domain
+        - before: opinion
+        - after: obvious
+    3. Short to the point, easy to rationalize
+    4. Should have stood the test of time
+
+USING HEURISTICS
+    - When to use heuristics?
+        - guides to evoke new thoughts
+        - integrated in design and development
+        - heuristics are important in the beginning
+
+PROCESS FRAMEWORKS FOR ARCHITECTING HEURISTICS
+
+    Top level steps followed by an architect at the beginning of the program
+
+    - ORIENTATION: Where you are and where you want to go
+    - CORE ARCHITECTING
+        1. Purpose analysis
+            - Purpose analysis: Why capabilities of desired system has value
+            - (Don't under estimate the value of the system)
+
+        2. Problem structuring [Harmonigation]
+            - You have to put some logical structure in your problem
+
+        3. Solution structuring [Harmonigation]
+            - You should have at least 2-3 solutions instead of just 1
+            - Pick the best solution
+
+        4. Selection abstraction
+            - There are some selection criteria
+            - Make the selection criteria before the results of the solution
+
+USING HEURISTICS
+    - They guide to evoke new thoughts
+    - Integrated in design and development
+    - Heuristics are important in the beginning
+
+HEURISTICS ON HEURISTICS
+
+    - GENERATING USEFUL HEURISTICS
+        - Careful choice of words
+        - Should transmit meaning
+        - Not just understandable to you
+        - No conditionals
+
+    - APPLYING HEURISTICS
+        - If it works it is useful
+        - Knowing when and how to use it is as important as the heuristic itself
+        - Works best when applied early
+        - Practice
+        - Not reality
+
+    - TAXONOMY OF HEURISTICS
+        - Descriptive
+            - Describing situation
+        - Prescriptive
+            - Offers situation

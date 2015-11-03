@@ -1,0 +1,173 @@
+Systems definition
+	- Set of interconnected things or parts forming a complex system
+
+Complexity:
+	1. Number of elements
+	2. Number of interconnected nodes
+
+Complexity of a system
+	- One of the most important reasons for system failure is the under estimation of complexity
+
+Need different techniques (design procedures/operational procedures to deal with complexity)
+	1. Architecting Methods
+	2. Heuristics
+	3. Abstractions
+	4. Integrated Modeling
+
+Simplicity is the most important factor when dealing with complexity. How?
+	1. Concentrated on essentials
+	2. Consolidated and simplify objectives
+	3. Put aside minor issues
+	4. Model at highest level
+
+Repressive Partitioning -> Don't destroy interfaces
+Advancements in IT
+	- software, smart systems, artificial intelligence (all these make a system very complex)
+	- software gives 'character' to a system
+	- before: 70% hardware, 30% software, now the other way around
+	- for software -> Layered structure
+	- for hardware -> hierarchical structure
+
+
+FOUNDATIONS OF MODERN SYSTEMS ARCHITECTURE
+	1. System Approach
+	2. Purpose Orientation
+	3. Modeling Methodology
+	4. Ultra Quality
+	5. Certification
+	6. Insight
+
+
+1. SYSTEM APPROACH
+	- Consider value judgement <-> Design decision
+	- What is desired? What is feasible?
+	- Life cycle approach: Parallel thinking
+
+
+
+
+1. PURPOSE ORIENTATION
+	- Every system/product has a purpose
+	- Customer/market determines the purpose
+
+		A successful system is
+			- useful
+			- affordable
+			- time
+		End use can be different from original purpose
+
+2. MODELING METHODOLOGY
+	- Fundamental to SE and SA
+	- Models predict (performance, cost, schedule, risk)
+	- Models provide guidelines
+	- Models are center pieces of SA (initially there is no system)
+	- As system design matures, less modeling and more hardware/software
+	- Initially models are top level
+	- As we move toward sub systems, the models get more complex and specific.
+
+			Examples of models
+				1. Engineering
+				2. Prototypes
+				3. Mathematical
+
+3. ULTRA QUALITY
+	- System never fails
+	- Zero defect
+	 		ex. nuclear power plant
+	- More complex systems have more components
+	- Life cycle of UQ must be cheap
+	- Implications: UQ manufacturing
+
+	How to design UQ system?
+	 	- Regular engineering process does not work
+	 	- Different approach
+	 	- Lots of analysis
+	 	- Experience based
+	 	- Tests do not work (most of the times)
+	 	- Buyer-supplier (buyer hopes UQ, supplier supplies UQ. Process keeps repeating)
+	 	- Redundancy CCF - Common Case Failure
+	 	- Servicing/Maintenance
+
+4. CERTIFICATION
+	- Formal statement
+	- Usually done by the architect
+	- System does what it is supposed to do
+
+		1. constraints on an architect
+			1. A disciplined avoidance of value judgement
+				- Architect cannot say -> fast
+									   -> safe
+									   -> satisfying performance
+				- can't say -> top speed is 140
+							-> 99.9% reliable
+				- Customer decides value judgement
+
+		2. A clear avoidance of perceived conflict of interest
+		3 .An arm's length relationship with project management
+
+5. INSIGHT AND HEURISTICS
+
+ 	 - Insight - Ability to understand problem broadly and convey (VISION)
+	 	- Risks
+		- Political issues
+		- Costs
+	- Architect has to be able to develop insights
+
+	- Heuristics - Greek term for guide and guidance
+	- Experience that results from guidance
+	- Great architects have wisdom (common sense)
+
+	Success <- Wisdom <- Experience <- Mistakes (Success comes with wisdom)
+
+
+
+ARCHITECT PARADIGM SUMMARIZED
+
+1. Agent of client (from who the paycheck comes from), not builder
+
+2. Works jointly with the client and builder
+	CLIENT <= ARCHITECT <= BUILDER
+
+3. Architect makes/creates system level requirements
+	-Client gives vision
+
+4. Architect's product is not just a system level requirement but abstract designs
+
+5. Cost, schedule, performance, and the like
+
+
+
+PROCESS MODELS (4 TYPES):
+	1. WATERFALL
+	2. SPIRAL
+	3. INCREMENTAL
+	4. COLLABORATION
+
+
+	1. WATERFALL (# CHECK FIGURE #)
+		- Hardware heavy systems
+		- Hierarchy
+		- Sequential process
+		- Parallel engineering
+			- start planning for testing, production...
+
+
+	2. SPIRAL MODEL (# CHECK FIGURE #)
+		- Software heavy
+		- Every iteration adds more functionality
+
+
+	3. INCREMENTAL MODEL (# CHECK FIGURE #)
+		- Sell each increments (stable)
+		- Stabilize on one circle (beta version)
+
+	4. COLLABORATIVE SYSTEMS
+		- Ex. Internet
+		- Not one company controlling system
+
+
+SCOPE OF SYSTEMS ARCHITECTURE
+	- What an architect should and should not do?
+	- List of responsibilities
+		- Should understand a system is built with a program (builder)
+		- Understand client culture too

@@ -1,0 +1,138 @@
+BUILDER ARCHITECTED SYSTEMS
+
+Customer -> Architect [function to form] a system  # Ch 1, 2
+Architect -> Customer [form to function] a system  # Ch 3
+
+RISK
+COMPETITION
+UNCERTAINTY
+    - If there is no uncertainty, there is no risk
+
+FORM FIRST PARADIGM OR BUILDER/ARCHITECT CONCEIVED SYSTEM
+
+    3 Categories
+        1. Incremental development of an existing system
+        2. New markets for existing products
+            - ex: McD in India
+        3. New product, new market
+
+
+        1. Incremental development of an existing system/product
+            - ex. Jet aircraft, digital photo, smart cars
+            - Risk of customer/market rejection
+
+                Risk mitigation strategies (universal):
+                    [i] Early prototyping
+                        - very last model before product
+                        - very close to actual system
+
+                    [ii] Open source
+                        - include customers in development
+                        - get feedback
+
+        2. New markets for existing products
+            - ex. McD chain in China
+                - have to make some modifications
+            - should not lose fundamental characteristic
+
+        3. New Products, new markets
+            - ex. iPod, iTunes, Cars
+            - Most challenging
+            - Highest risk
+            - Issue of timing
+
+        Technological sub systems in existing systems
+            - Challenge goes beyond new technology
+            - New thinking processes
+            - Fly by wide
+
+        Consequence of uncertainty of end result
+            RISKS
+            - Making changes as process matures
+            - System product drift
+
+3 STRATEGIES TO DOMINATE MARKET
+
+    1. DISRUPT AND DOMINATE
+        - Come up with a new product
+            - disrupt
+            - usually from startups
+        - Dominate the market
+        - To succeed, protect good product
+
+    2. AGILE RESPONSE
+        - When a new trend comes in response to a new tech/product
+        - Build product and sell
+        - Copy products
+        - For success
+            - flexible
+            - quick
+        - Successful in developing countries
+
+    3. ATTRITION
+        - Throw everything
+        - Have to be a big company
+        - Slow moving
+        - Likely to fail if
+            - non mature market
+            - bigger opposition
+
+            RISK REDUCTION STRATEGIES:
+                - Early prototyping
+                - Open source
+                - Build in and maintain options (hooks and scars)
+                - Pause and reflect
+                - Set intermediate goals
+                - Do hard parts first
+
+The "What Next Quandary"
+    - What is the next product?
+
+    - Startups small / small companies
+        - Technology / product successfull?
+            - continue to improve
+        - When competition attacks, product becomes commodity
+        - Then company needs another hit
+            - Needs resources
+            - Hard to innovate
+
+    - Established companies
+        - Technology/product around for a long time
+        - Core market
+        - If product becomes obsolete?
+            - New products
+            - No problem of resources
+            - Problem of business model and lack of innovation
+
+
+CONTROLLING CRITICAL FEATURES OF ARCHITECTURE
+    - PROTECT: If it is software encode it, copyright
+    - CONTROL: Licensing. Don't try to beat opposition. Join them
+
+
+ABANDONMENT OF AN OBSOLETE ARCHITECTURE
+    - Technology/product becomes obsolete
+    - Better be done in other ways
+        - ex. PCs replacing typewriters; Digital photography replacing chemical one
+        - Wifi replacing wired ones
+    - Original assumptions don't hold anymore
+        - ex. Price of gas
+    - Bypassing
+        - ex. PCs bypassed workstations
+
+CREATING INNOVATIVE TERMS
+
+    - Personalities
+    - Luck
+    - Different way of working
+    - Different organization
+    - Single mind/Single vision
+    - No committee
+    - Diversity of views
+    - No group thinking
+
+BASIC RESEARCH
+
+    - It is usually done in universities or large companies
+    - Time consuming
+    - Expensive

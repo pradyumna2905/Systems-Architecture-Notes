@@ -1,0 +1,78 @@
+SOCIAL SYSTEMs
+
+Social + Technical = Sociotechnical systems
+
+Socio technical systems:
+  - Technical systems
+  - Works involving social participation, interest and concerns
+  - Ex:
+    - Urban development
+    - Roadways / Public Transportation
+    - Health Systems
+
+  - Somewhat socio technical systems:
+    - Ballistic missile defense
+    - Nuclear power stations
+
+  - Public Participation
+    - Direct use by public
+    - Public is the end user
+    - Public must have personal responsibility and civic approach when using these systems
+
+  - Demand determines size of socio technical systems
+  - Socio technical systems are a form of collaborative systems
+  - Other category of socio technical systems are NASA, DoD
+    - No direct participation but public benefit from them
+
+FOUNDATIONS OF SOCIO TECHNICAL SYSTEMS:
+  - Design / Development / Operations are as before
+    - Systems approach
+    - Purpose
+    - Modeling
+    - Certification
+    - Insight and Heuristics
+    - UQ
+
+  - High Quality or UQ?
+    - For some we have UQ (Nuclear power stations)
+    - Public health systems - you want HQ, not UQ
+
+Separation of client and user
+  - Customer / Client (Government or a company) is not the end user (Public)
+  - It results in potential conflict
+  - To resolve conflicts:
+      - Standards
+      - Codes
+      - Certification
+
+  - Important Insights
+    - INSIGHT #1
+      - The 4 WHO's
+        - Who benefits?
+        - Who pays?
+        - Who provides?
+        - Who loses?
+      Answers wrt The Bell Company
+        - Callers
+        - Callers who made the call
+        - Bell Company
+        - Everybody
+
+    - INSIGHT #2
+      - Value vs Cost (Ex. Water bottle in dessert)
+      - Interaction between public and private sector
+
+      - Private
+        - Profit
+        - Hate regulations
+        - Delivered on schedule and cost
+        - Hates taxes
+
+      - Public/Gov
+        - Hates profit
+        - Loves regulations
+        - Resources
+        - Loves taxes
+
+Facts vs Perception
+  - 

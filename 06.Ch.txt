@@ -1,0 +1,84 @@
+SOFTWARE AND INFORMATION TECH SYSTEMS:
+
+Status of software architecture
+  - Software increases complexity
+  - Software makes working with systems easier
+  - Software considerations drives system design
+  - Software gives system character, feel
+    - Before: Hardware 70% : Software 30% (opposite now)
+  - Software creates intelligent behavior
+  - Software codes shifting to software libraries
+  - IT: Largest market for software
+
+Software characteristics
+  - Evolve rapidly
+  - Upgrades
+  - Zero manufacturing cost
+  - Zero distribution cost
+  - Cost is in development
+  - Software certification costs money
+  - Software is a very flexible medium
+  - Software has a LAYERED structure, Hardware has HIERARCHICAL structure
+  - Economically cheap to upgrade (up to a limit)
+  - Software cannot operate independently
+    - Hardware: Mass production low per unit cost
+    - Software: Modularization low cost
+
+Software Architecture
+  - Overall structure of a software system in terms of components and interfaces
+  - C4I
+    - Commands
+    - Communications
+    - Components
+    - Computers and Intelligence
+
+Software as a systems component
+  - Software is a part of the system
+  - Economically and technically feasible to evolve software
+  - Software resides on hardware: Microprocessor capabilities have to support software capabilities
+  - System capabilities must be constant with software capabilities
+
+Software of modern systems
+  - Software has autonomous or semi autonomous interpretation of data
+  - Responsive human interface
+  - Semi autonomous adaptation to environment
+    - Self driving car
+  - Real time control of hardware
+
+Systems, software and processed models
+  - Challenge is integration of software and hardware (and user)
+  - Hardware development: Waterfall
+  - Software development: Spiral
+    - Integration of these two is hard
+
+  - Waterfall for software
+    - Has been tried but not successful
+    - In some cases it must be done
+    - Ex: Accounting software
+
+  - Spiral for hardware
+    - No, but for some sub systems we can apply spiral, not the entire systen
+    - Ex: Aircraft carrier, ship (radar system which is a sub system)
+
+  - Software has layered system
+    - Local software part of hierarchical design
+      - Application oriented, follows hierarchical design
+      - Ex. Viper controlled by moistness
+
+Software in modern system
+  - Not local
+  - It controls the entire system
+  - Very complex
+  - Ex: Operating system
+  - Object oriented and layered structure
+
+Object oriented
+  - Collection of methods and functions
+  - Active objects run concurrently with other objects
+
+Layered structure
+  - No hierarchy
+  - Multiple layers
+    - In case of failure, other layers can compensate
+  - Software and hardware are disconnected
+  - Middleware - smooth out communication between hardware and software

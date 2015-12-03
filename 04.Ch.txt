@@ -1,0 +1,211 @@
+MANUFACTURING SYSTEMS
+
+Manufacturing Domain:
+  - Is a system
+  - Historically looked as one step in production system engineering
+  - Historically slow changing system/process
+  - 20 years global competition picked up
+  - Manufacturing looked upon as an area where competition can affect
+
+Innovations
+  - UQ Manufacturing
+      - UQ Systems must have UQ manuf
+      - Planned obsolescence
+      - Reliability is a must
+      - Must have quality (absence of defect)
+      - Does not break down
+      - No delay in manuf
+      - Testing can be reduced
+      - No spare parts
+
+      - Repair policy (Reflects cost)
+        - Full
+          - washing machine
+        - Partial
+          - laptop
+        - No repair
+          - cell phone
+
+      - 5 WHYs (Why did it go wrong?)
+
+      - System failure
+        - More complexity, more chance of failure
+
+      - UQ at all points
+        - Culture is very important in UQ
+        - Ex: Apple, iPhone box
+
+      - No negative work environment
+
+      - Pride in work
+        - Like your work
+        - Like what you do
+        - Fix it right then
+
+  - Dynamic Manufacturing
+    1 Intersecting waterfalls
+      - Manuf design and dev process is usually longer than system/product
+      - When 2 parallel processes (one fast and other slow) creates problems
+      - Do not underestimate uncertainty between two processes
+
+    2 Software integration
+      - More higher in manufacturing
+      - Adds another layer of complexity
+
+    3 Challenge: Sync up
+
+    4 Spiral and spiral to circle
+      - In software dev
+
+      - Other applications
+        - Fly-before buy form
+        - Operational prototype
+
+  - Flexible Manufacturing
+    - 2 types
+      - Make to order
+      - Multiple products
+
+  - Lean Production/ Just in Time
+    - Started in 1960s
+    - But implementation not effective
+    - Includes feedback (cannot work without it)
+    - Very high quality
+    - Bake quality in design
+    - TQM (Total Quality Management)
+    - JIT (Just in Time)
+      - No inventory
+      - Parts come, assemble
+      - DELL
+
+Manufacturing Scenarios:
+  - Full development with serial production
+      - Full design development
+      - Test process
+      - BUILD PROTOTYPES by performing QUALIFICATION TESTING
+      - Mass production
+
+  - Incremental development and release
+      - Software heavy
+      - Build prototypes
+      - Each prototype self sufficient and full function
+      - No manufacturing and distribution cost
+      - Only Testing and certification
+
+  - Proto flight dev and manuf
+      - Hardware heavy
+      - No prototype
+      - Not for mass production
+      - Just final product is launched
+      - 1/2 products
+      - Ex: Satellite
+      - testing
+        - cannot overtest
+        - cannot not test
+        - cannot damage product
+
+Concurrent Engineering
+  - Strategy to design and dev products
+  - Different stages run simultaneously, rather than consecutively
+  - Decreases development time and time to market
+  - Improved productivity and reduced cost
+
+Feedback Systems:
+  - Drawbacks:
+    - Complexity
+    - Unstability
+
+  - Types:
+    - External
+      - Customer feedback
+        - Get feedback from customer to improve product/service
+
+      - Supplier feedback
+        - Provide feedback to supplier
+        - Monitor supplier to ensure quality, schedule, cost
+
+    - Internal
+      - Quality
+        - Quality is designed into system and process
+        - In manuf process, monitor feedback and quality
+      - Process
+
+Feedback time delay OR Loop delay
+  - Time between information feedback to potential change in production
+  - Should be small but not too small
+  - Process fast, but not too fast
+
+  - Delays due to [NOT ACCEPTABLE]
+    - Making design changes
+    - Correcting supply problems
+    - Responding to customer complaints
+    - New products and reacting to competitors
+
+Anticipating feedback
+  - Try to anticipate the future of market for product
+  - Basically it is on supplier side
+  - Risk involved
+
+Bad feedback design
+  - Result in system instability
+
+  - Symptoms
+    - Inventory chaos (You produce too much or too less)
+    - Unscheduled overtime
+    - Frustrated suppliers
+    - Departing long time customers
+
+Properly designed feedback
+  - Better transient and statistic reference
+  - Reduced delays and resonance
+    - Resonance
+      - Oscillations within a system
+      - Oscillations are resonance
+      - Want to control frequency and amplitude of resonance
+
+  - Reduced non linearities
+  - Control of quality
+  - Minimize inventory
+
+  - Parameters
+    - Inventory size
+    - Inventory replacement capacity
+    - Information acquisition and processing time
+    - Supplier capacity
+    - Management of response time
+
+  - System response
+    - Time market
+    - Material flow rate
+    - Information flow rate
+    - Inventory replacement rate
+    - Employee turn over rate
+
+
+Some intuitions about feedback
+  - Behavior different
+  - Feedback fundamentally changes system
+  - Design of system is critical
+  - Feedback can compensate for disturbance but not at the margins
+  - When feedback is introduced the entire feedback needs to be redesigned
+  - Feedback wold compensate for noise (but not extreme noise), within system operating range
+
+Characteristics of non linear systems:
+  - Non linear system behavior is unpredictable
+  - Majority systems are non linear
+  - Very small changes in input amplitude could result in big changes in output
+  - Non linear systems are higher risk
+  - Involves saturation
+
+  - 2 kinds of non linearity
+    1. Intentional
+      - Ex. Controller for AC - ON/OFF depends on temperature
+
+    2. Unwanted linearity
+      - Try to get rid or in control of them
+      - Control
+        - Tight control
+          - Observe output
+          - Slight change
+          - Make change
+        - Local feedback
